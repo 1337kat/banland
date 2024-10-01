@@ -5,6 +5,7 @@ local scripts = {
     'https://raw.githubusercontent.com/1337h4xx/1/main/FreecamUD.lua',
     'https://raw.githubusercontent.com/1337h4xx/1/main/kill_notification',
     'https://raw.githubusercontent.com/1337h4xx/1/main/FullBright%20Loop%20Bypass',
+    'https://raw.githubusercontent.com/1337h4xx/1/refs/heads/main/No%20Leaves',
 }
 
 -- Function to create and resume a coroutine for each script
