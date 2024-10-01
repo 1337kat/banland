@@ -1,7 +1,7 @@
 -- List of scripts to load
 local scripts = {
     'https://raw.githubusercontent.com/1337kat/banland/refs/heads/main/3rd%20person',
-    'https://raw.githubusercontent.com/1337kat/banland/refs/heads/main/freecam',
+    'https://raw.githubusercontent.com/1337kat/banland/refs/heads/main/Tp%20freecam',
     'https://raw.githubusercontent.com/1337kat/banland/refs/heads/main/fullbright',
     'https://raw.githubusercontent.com/1337kat/banland/refs/heads/main/hitbox%20keybind',
     'https://raw.githubusercontent.com/1337kat/banland/refs/heads/main/no%20leaves',
