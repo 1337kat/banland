@@ -6,6 +6,7 @@ local scripts = {
     'https://raw.githubusercontent.com/1337kat/banland/refs/heads/main/hitbox%20keybind',
     'https://raw.githubusercontent.com/1337kat/banland/refs/heads/main/no%20leaves',
     'https://raw.githubusercontent.com/1337kat/banland/refs/heads/main/notification',
+    'https://raw.githubusercontent.com/1337kat/banland/refs/heads/main/gui',
 }
 
 -- Function to create and resume a coroutine for each script
